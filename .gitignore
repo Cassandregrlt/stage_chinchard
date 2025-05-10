@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+01_DATA/
+data/ObsMer/obsmer_chinchard.rdata
+/data
+stage_chinchard.Rproj
